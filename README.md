@@ -6,6 +6,8 @@ product, but also wants to build a long-lasting "productized" application.
 The following is a compendium of books, help documents, blog posts, etc. that I've found
 helpful when building Shiny apps.
 
+As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html).
+
 ## Foundations
 
 * [Mastering Shiny](https://mastering-shiny.org/) is a WIP book by R hero Hadley Wickham.
@@ -64,8 +66,9 @@ languages.  Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has e
 in [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) is worth a read.
 
 
-## Ideas and Inspiration
+## Application Layout Ideas and Inspiration
 
+* [Application Layout Guide](https://shiny.rstudio.com/articles/layout-guide.html) from the official docs
 * R Studio's [Gallery](https://shiny.rstudio.com/gallery/) of Shiny applications is a
 great source of ideas and inspiration when designing an app.
 
