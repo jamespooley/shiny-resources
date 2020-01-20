@@ -53,3 +53,13 @@ languages.  Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has e
 
 * R Studio's [Gallery](https://shiny.rstudio.com/gallery/) of Shiny applications is a
 great source of ideas and inspiration when designing an app.
+
+
+## General R Programming
+
+Being fluent in R as a programming language (as opposed to a tool and interactive
+environment for data analysis) goes a long way when building Shiny apps.
+
+The [Functional Programming](https://adv-r.hadley.nz/fp.html) chapters in Hadley Wickham's
+[Advanced R (2nd Edition)](https://adv-r.hadley.nz/) are good for learning an approach to
+R programming that will help you write app code that follows the [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle.
