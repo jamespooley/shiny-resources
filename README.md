@@ -19,6 +19,15 @@ places to start to learn about the programming model used by Shiny.
 * [Reactivity: Part 1](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-reactivity-joecheng-part-1-1080p)
 * [Reactivity: Part 2](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-reactivity-joecheng-part-2-1080p)
 
+### Development Workflow
+
+* The [Workflow](https://mastering-shiny.org/action-workflow.html) chapter in Hadley Wickham's
+Mastering Shiny has a lot of good advice. In particular, the part of [Shiny apps in background jobs](https://github.com/sol-eng/background-jobs/tree/master/shiny-job) when using R Studio.
+
+* A simple change that works for me is [Dean Attali](https://deanattali.com/shiny/)'s tip
+to put `session$onSessionEnded(stopApp)` in your `server` function, which lets you
+["[a]utomatically stop a Shiny app when closing the browser tab."](https://github.com/daattali/advanced-shiny/tree/master/auto-kill-app)
+
 ### Profiling
 
 * [Profiling a Shiny App](https://rstudio.github.io/profvis/examples.html#example-3---profiling-a-shiny-application) using [`profvis`](https://rstudio.github.io/profvis/index.html)
