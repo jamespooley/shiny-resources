@@ -49,6 +49,12 @@ languages.  Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has e
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
+## Shiny and R Markdown
+
+* The [Shiny Documents](https://bookdown.org/yihui/rmarkdown/shiny-documents.html) chapter
+in [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) is worth a read.
+
+
 ## Ideas and Inspiration
 
 * R Studio's [Gallery](https://shiny.rstudio.com/gallery/) of Shiny applications is a
