@@ -15,6 +15,14 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 
 ### Reactive Programming
 
+Remember the [4 maxims](https://shiny.rstudio.com/articles/understanding-reactivity.html) of reactive programming in Shiny prepared
+by Garret Grolemund:
+
+1. R expressions update themselves, if you ask.
+2. Nothing needs to happen instantly.
+3. The app must do as little as possible.
+4. Think carrier pigeons, not electricity.
+
 Joe Cheng's two presentations on reactivity from [Shiny DevCon 2016](https://resources.rstudio.com/shiny-developer-conference) are excellent
 places to start to learn about the programming model used by Shiny.
 
