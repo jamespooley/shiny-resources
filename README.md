@@ -19,6 +19,10 @@ places to start to learn about the programming model used by Shiny.
 * [Reactivity: Part 1](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-reactivity-joecheng-part-1-1080p)
 * [Reactivity: Part 2](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-reactivity-joecheng-part-2-1080p)
 
+### Profiling
+
+* [Profiling a Shiny App](https://rstudio.github.io/profvis/examples.html#example-3---profiling-a-shiny-application) using [`profvis`](https://rstudio.github.io/profvis/index.html)
+
 ### Shiny Modules
 
 * [The Shiny Module Design Pattern](https://drdoane.com/the-shiny-module-design-pattern/)
