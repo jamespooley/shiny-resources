@@ -52,8 +52,9 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 ## HTML, CSS, and JavaScript
 
-Some of the more advanced usage of Shiny requires some familiarty with web development
-languages.  Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has excellent documentation on these technologies written "by developers, for developers."
+Some familiarty with web development languages will come in handy, especially when utilizing [Advanced UI](https://mastering-shiny.org/advanced-ui.html) features and [`shinyjs`](https://github.com/daattali/shinyjs).
+
+Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has excellent documentation on these technologies written "by developers, for developers."
 
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
