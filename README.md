@@ -47,3 +47,9 @@ languages.  Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has e
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+## Ideas and Inspiration
+
+* R Studio's [Gallery](https://shiny.rstudio.com/gallery/) of Shiny applications is a
+great source of ideas and inspiration when designing an app.
