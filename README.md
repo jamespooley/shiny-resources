@@ -92,3 +92,8 @@ environment for data analysis) goes a long way when building Shiny apps.
 The [Functional Programming](https://adv-r.hadley.nz/fp.html) chapters in Hadley Wickham's
 [Advanced R (2nd Edition)](https://adv-r.hadley.nz/) are good for learning an approach to
 R programming that will help you write app code that follows the [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle.
+
+
+## Dog's Breakfast
+
+* [Shiny Developer Series](https://shinydevseries.com/) is a series of webinars that are worth watching.
