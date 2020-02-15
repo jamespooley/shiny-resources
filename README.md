@@ -54,6 +54,8 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 * [Profiling a Shiny App](https://rstudio.github.io/profvis/examples.html#example-3---profiling-a-shiny-application) using [`profvis`](https://rstudio.github.io/profvis/index.html)
 
+* Hadley's chapters on [Measuring Performance](https://adv-r.hadley.nz/perf-measure.html) and [Improving Performance](https://adv-r.hadley.nz/perf-improve.html) of R code in Advanced R will be helpful here.
+
 ### Shiny Modules
 
 * [The Shiny Module Design Pattern](https://drdoane.com/the-shiny-module-design-pattern/)
