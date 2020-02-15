@@ -8,7 +8,7 @@ helpful when building Shiny apps.
 
 As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html).
 
-## Foundations
+### Foundations
 
 * [Mastering Shiny](https://mastering-shiny.org/) is a WIP book by R hero Hadley Wickham.
 * The official R Studio Shiny [documentation](https://shiny.rstudio.com/articles)
@@ -48,17 +48,22 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Writing Big Apps: How to Use Shiny Modules](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-modules-garrettgrolemund-1080p)
 * [Effective Use of Shiny Modules in Application Development](https://resources.rstudio.com/rstudio-conf-2019/effective-use-of-shiny-modules-in-application-development)
 
-## Visualization
+### Visualization
 
 * [Interactive Web-Based Data Visualization with R, Plotly, and Shiny](https://plotly-r.com/)
 * [R Graphics Cookbook (2nd Edition)](https://r-graphics.org/)
 
 
-## Building Production-Grade Shiny Apps
+### Building Production-Grade Shiny Apps
 
 * [Shiny in Production with AWS](https://business-science.github.io/shiny-production-with-aws-book/) is a free book that covers "[t]he enterprise-grade process for deploying, hosting, and maintaining Shiny web applications using AWS, Docker, and git."
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/) is another WIP book by the authors of the [`{golem}`](https://thinkr-open.github.io/golem/) package.
 * Joe Cheng's [Shiny in Production: Principles, Practices, and Tools](https://resources.rstudio.com/rstudio-conf-2019/shiny-in-production-principles-practices-and-tools-joe-cheng) presentation at rstudio::conf 2019
+
+## Docker and AWS
+
+* [R Shiny on AWS Using Docker: Part 1](https://www.bryanwhiting.com/2019/02/rshiny-on-docker-part1/)
+* [R Shiny on AWS Using Docker: Part 2](https://www.bryanwhiting.com/2019/02/rshiny-on-docker-part2/)
 
 ## HTML, CSS, and JavaScript
 
