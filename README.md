@@ -122,5 +122,7 @@ R programming that will help you write app code that follows the [DRY](https://e
 
 ## Dog's Breakfast
 
+These are good but I haven't decided where to put these yet. Thus, the terrible section name...
+
 * [Shiny Developer Series](https://shinydevseries.com/) is a series of webinars that are worth watching.
 * [How can I insert an image into the navbar on a shiny navbarPage()?](https://stackoverflow.com/questions/24705431/how-can-i-insert-an-image-into-the-navbar-on-a-shiny-navbarpage) answer on Stack Overflow
