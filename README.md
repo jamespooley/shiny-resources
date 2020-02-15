@@ -13,6 +13,11 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 * [Mastering Shiny](https://mastering-shiny.org/) is a WIP book by R hero Hadley Wickham.
 * The official R Studio Shiny [documentation](https://shiny.rstudio.com/articles)
 
+### Advanced Shiny
+
+* [Advanced Shiny: tips and Tricks for Improving Your Apps and Solving Common Problems](https://github.com/daattali/advanced-shiny)
+
+
 ### Reactive Programming
 
 Remember the [4 maxims](https://shiny.rstudio.com/articles/understanding-reactivity.html) of reactive programming in Shiny prepared
