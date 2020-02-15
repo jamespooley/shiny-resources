@@ -93,6 +93,8 @@ Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has excellent doc
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+[Introduction to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT/) also has a useful introduction to HTML and CSS.
+
 Other resources worth a read:
 
 * [7 Easy Steps to Custom Inputs in Shiny](https://mail-wolf.de/?p=4357)
