@@ -74,14 +74,14 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/) is another WIP book by the authors of the [`{golem}`](https://thinkr-open.github.io/golem/) package.
 * Joe Cheng's [Shiny in Production: Principles, Practices, and Tools](https://resources.rstudio.com/rstudio-conf-2019/shiny-in-production-principles-practices-and-tools-joe-cheng) presentation at rstudio::conf 2019
 
-DataCamp's [EC2 Tutorial for Beginners](https://www.datacamp.com/community/tutorials/aws-ec2-beginner-tutorial) is a good quickstart if you need some basic training with that service.
-
 ## Docker and AWS
 
 If you need a quickstart guide to Docker, [R Docker Tutorial](https://ropenscilabs.github.io/r-docker-tutorial/) is a (non-Shiny-specific) tutorial on Docker for R users that may be helpful.
 
 * [R Shiny on AWS Using Docker: Part 1](https://www.bryanwhiting.com/2019/02/rshiny-on-docker-part1/)
 * [R Shiny on AWS Using Docker: Part 2](https://www.bryanwhiting.com/2019/02/rshiny-on-docker-part2/)
+
+DataCamp's [EC2 Tutorial for Beginners](https://www.datacamp.com/community/tutorials/aws-ec2-beginner-tutorial) is a good quickstart if you need some basic training with that service.
 
 ## HTML, CSS, and JavaScript
 
