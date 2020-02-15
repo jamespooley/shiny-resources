@@ -47,6 +47,10 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * ["[a]utomatically stop a Shiny app when closing the browser tab."](https://github.com/daattali/advanced-shiny/tree/master/auto-kill-app)
 * MarkeD's answer to on the [Best Practices: Shiny Development](https://community.rstudio.com/t/best-practices-shiny-development/1694/3) on the R Studio community discussion board has good suggestions.
 
+### DataTables
+
+* [DT: An R Interface to the DataTables Library](https://rstudio.github.io/DT/)
+
 ### Profiling
 
 * [Profiling a Shiny App](https://rstudio.github.io/profvis/examples.html#example-3---profiling-a-shiny-application) using [`profvis`](https://rstudio.github.io/profvis/index.html)
