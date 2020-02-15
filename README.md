@@ -124,6 +124,8 @@ The [Functional Programming](https://adv-r.hadley.nz/fp.html) chapters in Hadley
 [Advanced R (2nd Edition)](https://adv-r.hadley.nz/) are good for learning an approach to
 R programming that will help you write app code that follows the [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle.
 
+* [Create a Dynamic Number of UI Elements in Shiny with `purrr`](https://tbradley1013.github.io/2018/08/10/create-a-dynamic-number-of-ui-elements-in-shiny-with-purrr/)
+
 
 ## Dog's Breakfast
 
