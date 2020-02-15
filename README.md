@@ -91,6 +91,11 @@ Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has excellent doc
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+Other resources worth a read:
+
+* [7 Easy Steps to Custom Inputs in Shiny](https://mail-wolf.de/?p=4357)
+* [Build Your Entire UI with HTML](https://shiny.rstudio.com/articles/html-ui.html) from the official R Studio Shiny documentation
+
 
 ## Shiny and R Markdown
 
