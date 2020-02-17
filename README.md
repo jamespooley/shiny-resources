@@ -137,3 +137,4 @@ These are good but I haven't decided where to put these yet. Thus, the terrible 
 
 * [Shiny Developer Series](https://shinydevseries.com/) is a series of webinars that are worth watching.
 * [How can I insert an image into the navbar on a shiny navbarPage()?](https://stackoverflow.com/questions/24705431/how-can-i-insert-an-image-into-the-navbar-on-a-shiny-navbarpage) answer on Stack Overflow
+* [In R Shiny, When Is an Error Really an Error?](https://towardsdatascience.com/in-r-shiny-when-is-an-error-really-an-error-702205ebb5d5)
