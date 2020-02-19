@@ -109,8 +109,9 @@ Other resources worth a read:
 
 ## Shiny and R Markdown
 
-* The [Shiny Documents](https://bookdown.org/yihui/rmarkdown/shiny-documents.html) chapter
-in [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) is worth a read.
+* The [Shiny Documents](https://bookdown.org/yihui/rmarkdown/shiny-documents.html) chapter in[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+is worth a read.
+* [Generating Downloadable Reports](https://shiny.rstudio.com/articles/generating-reports.html) from the official R Studio Shiny documentation
 
 
 ## Application Layout Ideas and Inspiration
