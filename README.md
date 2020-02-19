@@ -79,6 +79,7 @@ relied on by real users, with real consequences if things go wrong.
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/) is another WIP book by the authors of the [`{golem}`](https://thinkr-open.github.io/golem/) package.
 * Joe Cheng's [Shiny in Production: Principles, Practices, and Tools](https://resources.rstudio.com/rstudio-conf-2019/shiny-in-production-principles-practices-and-tools-joe-cheng) presentation at rstudio::conf 2019
 * [Packaging Shiny Applications: A Deep Dive](https://www.mango-solutions.com/packaging-shiny-applications-a-deep-dive/)
+* [Building a Shiny App as a Package](https://rtask.thinkr.fr/building-a-shiny-app-as-a-package/)
 * [`shinyApp()`, `runApp()`, `shinyAppDir()`, and a Fourth Option](https://rtask.thinkr.fr/shinyapp-runapp-shinyappdir-difference/)
 
 ## Docker and AWS
