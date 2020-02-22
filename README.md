@@ -64,6 +64,11 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/)
 * [Communication between Modules and Its Whims](https://rtask.thinkr.fr/communication-between-modules-and-its-whims/)
 
+### Asynchronous Programming
+
+* [Async in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
+* [An Informal Intro to Async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
+
 ### Visualization
 
 * [Interactive Web-Based Data Visualization with R, Plotly, and Shiny](https://plotly-r.com/)
