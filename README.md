@@ -129,6 +129,7 @@ is worth a read.
 * R Studio's [Gallery](https://shiny.rstudio.com/gallery/) of Shiny applications is a
 great source of ideas and inspiration when designing an app.
 * [Grid Style Sheets](https://rstudio.com/resources/videos/grid-style-sheets/) "are a radical approach to doing app-style layouts in a browser. It is a JavaScript library that replaces the browser’s built-in layout engine with one based on a constraint solving algorithm. The result is that some layouts that are incredibly tricky in CSS are completely natural to implement in GSS. This talk will demonstrate an experimental R library that makes it simple for any Shiny developer to take advantage of CSS. 12:56."
+* [RinteRface](https://github.com/RinteRface), a "collection of outstanding APIs for R Shiny"
 
 
 ## General R Programming
