@@ -153,3 +153,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [How can I insert an image into the navbar on a shiny navbarPage()?](https://stackoverflow.com/questions/24705431/how-can-i-insert-an-image-into-the-navbar-on-a-shiny-navbarpage) answer on Stack Overflow
 * [In R Shiny, When Is an Error Really an Error?](https://towardsdatascience.com/in-r-shiny-when-is-an-error-really-an-error-702205ebb5d5)
 * [Use `shinydashboard` in `shiny`](https://dreamrs.github.io/shinyWidgets/reference/useShinydashboard.html) shows how to use a [`valueBox()`](https://rstudio.github.io/shinydashboard/structure.html#valuebox) in a Shiny app (cf. a Shiny dashboard) via the `shinyWidgets::useshinydashboard()` function.
+* [Using Cookie Based Authentication with Shiny](https://calligross.de/post/using-cookie-based-authentication-with-shiny/)
