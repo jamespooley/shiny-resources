@@ -90,6 +90,13 @@ relied on by real users, with real consequences if things go wrong.
 * [`shinyApp()`, `runApp()`, `shinyAppDir()`, and a Fourth Option](https://rtask.thinkr.fr/shinyapp-runapp-shinyappdir-difference/)
 * [Dockerized Shiny App Development](http://tamaszilagyi.com/blog/2018/2018-01-16-shiny_docker/)
 
+
+### Testing
+
+* [Using `shinytest` with R Packages](https://rstudio.github.io/shinytest/articles/package.html)
+* [Testing in Depth](https://rstudio.github.io/shinytest/articles/in-depth.html)
+* [Using `shinytest` with Continuous Integration](https://rstudio.github.io/shinytest/articles/ci.html)
+
 ## Docker and AWS
 
 If you need a quickstart guide to Docker, [R Docker Tutorial](https://ropenscilabs.github.io/r-docker-tutorial/) is a (non-Shiny-specific) tutorial on Docker for R users that may be helpful.
