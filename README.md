@@ -8,6 +8,8 @@ helpful when building Shiny apps.
 
 As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html).
 
+<!-- toc -->
+
 ### Foundations
 
 * [Mastering Shiny](https://mastering-shiny.org/) is a WIP book by R hero Hadley Wickham.
