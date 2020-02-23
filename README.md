@@ -125,6 +125,7 @@ Other resources worth a read:
 * [7 Easy Steps to Custom Inputs in Shiny](https://mail-wolf.de/?p=4357)
 * [Build Your Entire UI with HTML](https://shiny.rstudio.com/articles/html-ui.html) from the official R Studio Shiny documentation
 * [HTML Templates](https://shiny.rstudio.com/articles/templates.html) from the official R Studio Shiny documentation
+* [Web Fundamentals](https://developers.google.com/web/fundamentals), "Google's opinionated reference for building amazing web experiences"
 
 
 ## Shiny and R Markdown
