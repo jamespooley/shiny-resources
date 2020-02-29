@@ -173,3 +173,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [In R Shiny, When Is an Error Really an Error?](https://towardsdatascience.com/in-r-shiny-when-is-an-error-really-an-error-702205ebb5d5)
 * [Use `shinydashboard` in `shiny`](https://dreamrs.github.io/shinyWidgets/reference/useShinydashboard.html) shows how to use a [`valueBox()`](https://rstudio.github.io/shinydashboard/structure.html#valuebox) in a Shiny app (cf. a Shiny dashboard) via the `shinyWidgets::useshinydashboard()` function.
 * [Using Cookie Based Authentication with Shiny](https://calligross.de/post/using-cookie-based-authentication-with-shiny/)
+* If you need a WYSIWYG text editor in your app, check out [`shinyMCE`](https://github.com/mul118/shinyMCE)
