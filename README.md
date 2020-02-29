@@ -38,6 +38,12 @@ places to start to learn about the programming model used by Shiny.
 * [Reactivity: Part 2](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-reactivity-joecheng-part-2-1080p)
 
 
+I found the following article to be especially clear at comparing
+reactive expressions and observers:
+
+* [`reactive`, `reactiveValue`, and `eventReactive`, `observe` and `observeEvent` in Shiny](https://shiny.programmingpedia.net/en/tutorial/10787/reactive-reactivevalue-and-eventreactive-observe-and-observeevent-in-shiny)
+
+
 [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) sounds relevant, but have not read it ... yet.
 
 ### Development Workflow
