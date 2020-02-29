@@ -169,6 +169,7 @@ R programming that will help you write app code that follows the [DRY](https://e
 
 * [Create a Dynamic Number of UI Elements in Shiny with `purrr`](https://tbradley1013.github.io/2018/08/10/create-a-dynamic-number-of-ui-elements-in-shiny-with-purrr/)
 * [Generate Custom HTML per Row of a Data Frame with `pmap`](https://adamgruer.rbind.io/post/create-html-per-row-of-a-dataframe-with-pmap/)
+* [Bang Bang: How to Program with `dplyr`](https://www.r-craft.org/r-news/bang-bang-how-to-program-with-dplyr/) has some stuff on Shiny.
 
 
 ## Dog's Breakfast
