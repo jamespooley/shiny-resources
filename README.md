@@ -103,6 +103,7 @@ relied on by real users, with real consequences if things go wrong.
 * [Using `shinytest` with R Packages](https://rstudio.github.io/shinytest/articles/package.html)
 * [Testing in Depth](https://rstudio.github.io/shinytest/articles/in-depth.html)
 * [Using `shinytest` with Continuous Integration](https://rstudio.github.io/shinytest/articles/ci.html)
+* [Testing Shiny Apps](https://cran.r-project.org/web/packages/RSelenium/vignettes/shinytesting.html) goes into "how one might approach 'testing' a Shiny app" using [RSelenium](https://github.com/ropensci/RSelenium).
 
 ## Docker and AWS
 
