@@ -93,6 +93,11 @@ relied on by real users, with real consequences if things go wrong.
 * [Dockerized Shiny App Development](http://tamaszilagyi.com/blog/2018/2018-01-16-shiny_docker/)
 
 
+### Security
+
+* [Securing Shiny Apps](https://globalparametrics.github.io/SecuringShiny/) provides "[a] summary of free/open source ways of securing Shiny."
+
+
 ### Testing
 
 * [Using `shinytest` with R Packages](https://rstudio.github.io/shinytest/articles/package.html)
