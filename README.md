@@ -121,6 +121,7 @@ relied on by real users, with real consequences if things go wrong.
 * [Building a Shiny App as a Package](https://rtask.thinkr.fr/building-a-shiny-app-as-a-package/)
 * [`shinyApp()`, `runApp()`, `shinyAppDir()`, and a Fourth Option](https://rtask.thinkr.fr/shinyapp-runapp-shinyappdir-difference/)
 * [Dockerized Shiny App Development](http://tamaszilagyi.com/blog/2018/2018-01-16-shiny_docker/)
+* [Demonstration of the `{golem}` Package](https://www.youtube.com/watch?v=3-p9XLvoJV0) is a nice quickstart webinar on using the `{golem}` package.
 
 
 ### Security
