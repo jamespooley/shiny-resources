@@ -14,6 +14,7 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 * [Advanced](#advanced)  
 * [Reactive Programming](#reactive)  
 * [Development Workflow](#workflow)  
+* [Data Visualization](#dataviz)
 * [Shiny in Production](#production)  
 * [Docker and AWS](#docker)  
 * [HTML, CSS, and JavaScript](#webtech)  
@@ -96,6 +97,8 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 * [Async in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
 * [An Informal Intro to Async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
+
+<a name="dataviz"/>
 
 ### Visualization
 
