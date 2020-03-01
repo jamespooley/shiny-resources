@@ -8,9 +8,16 @@ helpful when building Shiny apps.
 
 As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html).
 
+### Table of Contents
+
 * [Foundations](#foundations)  
 * [Advanced](#advanced)  
 * [Reactive Programming](#reactive)  
+* [Development Workflow](#workflow)  
+* [Shiny in Production](#production)  
+* [Docker and AWS](#docker)  
+* [HTML, CSS, and JavaScript](#webtech)  
+
 
 <a name="foundations"/>
 
@@ -55,6 +62,9 @@ reactive expressions and observers:
 
 [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) sounds relevant, but have not read it ... yet.
 
+
+<a name="workflow"/>
+
 ### Development Workflow
 
 * The [Workflow](https://mastering-shiny.org/action-workflow.html) chapter in Hadley Wickham's
@@ -93,6 +103,8 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [R Graphics Cookbook (2nd Edition)](https://r-graphics.org/)
 
 
+<a name="production"/>
+
 ### Building Production-Grade Shiny Apps
 
 > <sup>What is "production"? Software environments that are used and
@@ -120,6 +132,9 @@ relied on by real users, with real consequences if things go wrong.
 * [Using `shinytest` with Continuous Integration](https://rstudio.github.io/shinytest/articles/ci.html)
 * [Testing Shiny Apps](https://cran.r-project.org/web/packages/RSelenium/vignettes/shinytesting.html) goes into "how one might approach 'testing' a Shiny app" using [RSelenium](https://github.com/ropensci/RSelenium).
 
+
+<a name="docker"/>
+
 ## Docker and AWS
 
 If you need a quickstart guide to Docker, [R Docker Tutorial](https://ropenscilabs.github.io/r-docker-tutorial/) is a (non-Shiny-specific) tutorial on Docker for R users that may be helpful.
@@ -130,6 +145,9 @@ If you need a quickstart guide to Docker, [R Docker Tutorial](https://ropenscila
 DataCamp's [EC2 Tutorial for Beginners](https://www.datacamp.com/community/tutorials/aws-ec2-beginner-tutorial) is a good quickstart if you need some basic training with that service.
 
 * [How to User Rocker (R + Docker) to Containerize an Application Consist of Both R and Shiny Python Libraries](https://towardsdatascience.com/rocker-r-docker-to-containerize-an-application-consist-of-both-r-shiny-and-python-libraries-821c8c54bcee)
+
+
+<a name="webtech"/>
 
 ## HTML, CSS, and JavaScript
 
