@@ -8,7 +8,11 @@ helpful when building Shiny apps.
 
 As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html).
 
-<!-- toc -->
+* [Foundations](#foundations)  
+* [Advanced](#advanced)  
+* [Reactive Programming](#reactive)  
+
+<a name="foundations"/>
 
 ### Foundations
 
@@ -16,10 +20,15 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 * The official R Studio Shiny [documentation](https://shiny.rstudio.com/articles)
 * [R Powered Web Applications with Shiny: A Tutorial and Cheat Sheet with 40 Example Apps](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
 
+
+<a name="advanced"/>
+
 ### Advanced Shiny
 
 * [Advanced Shiny: tips and Tricks for Improving Your Apps and Solving Common Problems](https://github.com/daattali/advanced-shiny)
 
+
+<a name="reactive"/>
 
 ### Reactive Programming
 
