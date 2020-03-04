@@ -27,6 +27,7 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 * [Mastering Shiny](https://mastering-shiny.org/) is a WIP book by R hero Hadley Wickham.
 * The official R Studio Shiny [documentation](https://shiny.rstudio.com/articles)
 * [R Powered Web Applications with Shiny: A Tutorial and Cheat Sheet with 40 Example Apps](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+* [How to Build a Shiny App from Scratch](https://bookdown.org/hadrien/how_to_build_a_shiny_app_from_scratch/)
 
 
 <a name="advanced"/>
