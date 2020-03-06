@@ -99,6 +99,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Async in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
 * [An Informal Intro to Async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
 * [Improving Scalability with Async Programming](https://shiny.rstudio.com/articles/async.html)
+* [Using Promises with Shiny](https://rstudio.github.io/promises/articles/shiny.html)
 
 <a name="dataviz"/>
 
