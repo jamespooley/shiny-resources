@@ -219,3 +219,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * If you need a WYSIWYG text editor in your app, check out [`shinyMCE`](https://github.com/mul118/shinyMCE).
 * [`shinyAce`](https://github.com/trestletech/shinyAce) is another text editor option.
 * [Long Running Tasks with Shiny: Challenges and Solutions](http://blog.fellstat.com/?p=407)
+* [Shiny Database App (CRUC)](https://ipub.com/shiny-crud-app/)
