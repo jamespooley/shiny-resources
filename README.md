@@ -136,6 +136,7 @@ relied on by real users, with real consequences if things go wrong.
 * [Testing in Depth](https://rstudio.github.io/shinytest/articles/in-depth.html)
 * [Using `shinytest` with Continuous Integration](https://rstudio.github.io/shinytest/articles/ci.html)
 * [Testing Shiny Apps](https://cran.r-project.org/web/packages/RSelenium/vignettes/shinytesting.html) goes into "how one might approach 'testing' a Shiny app" using [RSelenium](https://github.com/ropensci/RSelenium).
+* [Developing Robust Shiny Apps with Regression Testing](https://resources.rstudio.com/rstudio-conf-2018/shiny-developing-robust-shiny-apps-with-regression-testing-winston-chang)
 
 
 <a name="docker"/>
