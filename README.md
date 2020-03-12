@@ -220,3 +220,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [`shinyAce`](https://github.com/trestletech/shinyAce) is another text editor option.
 * [Long Running Tasks with Shiny: Challenges and Solutions](http://blog.fellstat.com/?p=407)
 * [Shiny Database App (CRUC)](https://ipub.com/shiny-crud-app/)
+* [Exploring `yonder` with Nathan Teetor](https://www.youtube.com/watch?v=TWqfik2INEQ)
