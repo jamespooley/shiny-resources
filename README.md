@@ -3,7 +3,7 @@
 Shiny is a great tool for the working data scientist that needs to quickly build an MVP data
 product, but also wants to build a long-lasting "productized" application.
 
-The following is a compendium of books, help documents, blog posts, etc. that I've found
+The following is a (perpetually WIP) compendium of books, help documents, blog posts, etc. that I've found
 helpful when building Shiny apps.
 
 As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html).
@@ -219,5 +219,5 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * If you need a WYSIWYG text editor in your app, check out [`shinyMCE`](https://github.com/mul118/shinyMCE).
 * [`shinyAce`](https://github.com/trestletech/shinyAce) is another text editor option.
 * [Long Running Tasks with Shiny: Challenges and Solutions](http://blog.fellstat.com/?p=407)
-* [Shiny Database App (CRUC)](https://ipub.com/shiny-crud-app/)
+* [Shiny Database App (CRUD)](https://ipub.com/shiny-crud-app/)
 * [Exploring `yonder` with Nathan Teetor](https://www.youtube.com/watch?v=TWqfik2INEQ)
