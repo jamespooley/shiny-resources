@@ -125,6 +125,7 @@ relied on by real users, with real consequences if things go wrong.
 * [`shinyApp()`, `runApp()`, `shinyAppDir()`, and a Fourth Option](https://rtask.thinkr.fr/shinyapp-runapp-shinyappdir-difference/)
 * [Dockerized Shiny App Development](http://tamaszilagyi.com/blog/2018/2018-01-16-shiny_docker/)
 * [Demonstration of the `{golem}` Package](https://www.youtube.com/watch?v=3-p9XLvoJV0) is a nice quickstart webinar on using the `{golem}` package.
+* [Bring Your Favorite Fonts to Reports Running in Docker](https://medium.com/@vladimirsalin/bring-your-favourite-fonts-to-reports-running-in-docker-9fc2d24e2b03)
 
 
 ### Security
