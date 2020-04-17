@@ -134,7 +134,12 @@ Two posts on the [Auth0](https://auth0.com) blog cover addtion authentication to
 * [Adding Authentication to Shiny Open Source Edition](https://auth0.com/blog/adding-authentication-to-shiny-open-source-edition/)
 * [Adding Authentication to Shiny Server in 4 Simple Steps](https://auth0.com/blog/adding-authentication-to-shiny-server/)
 
-[Password Protect Shiny Apps](https://www.r-bloggers.com/password-protect-shiny-apps/) covers,
+In terms of password-protection for Shiny apps:
+
+* The [`shinymanager`](https://datastorm-open.github.io/shinymanager/) package provides
+"simple and secure authentication for single Shiny applications," with the encrypted credentials 
+stored in a SQLite database
+* [Password Protect Shiny Apps](https://www.r-bloggers.com/password-protect-shiny-apps/) covers,
 as one would expect, how to add password protection to your apps.
 
 
