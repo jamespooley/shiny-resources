@@ -111,7 +111,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 <a name="production"/>
 
-### Building Production-Grade Shiny Apps
+### Shiny in Production
 
 > <sup>What is "production"? Software environments that are used and
 relied on by real users, with real consequences if things go wrong.
@@ -126,6 +126,16 @@ relied on by real users, with real consequences if things go wrong.
 * [Dockerized Shiny App Development](http://tamaszilagyi.com/blog/2018/2018-01-16-shiny_docker/)
 * [Demonstration of the `{golem}` Package](https://www.youtube.com/watch?v=3-p9XLvoJV0) is a nice quickstart webinar on using the `{golem}` package.
 * [Bring Your Favorite Fonts to Reports Running in Docker](https://medium.com/@vladimirsalin/bring-your-favourite-fonts-to-reports-running-in-docker-9fc2d24e2b03)
+
+#### Security
+
+Two posts on the [Auth0](https://auth0.com) blog cover addtion authentication to Shiny:
+
+* [Adding Authentication to Shiny Open Source Edition](https://auth0.com/blog/adding-authentication-to-shiny-open-source-edition/)
+* [Adding Authentication to Shiny Server in 4 Simple Steps](https://auth0.com/blog/adding-authentication-to-shiny-server/)
+
+[Password Protect Shiny Apps](https://www.r-bloggers.com/password-protect-shiny-apps/) covers,
+as one would expect, how to add password protection to your apps.
 
 
 ### Security
