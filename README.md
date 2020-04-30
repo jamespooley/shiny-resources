@@ -127,6 +127,17 @@ relied on by real users, with real consequences if things go wrong.
 * [Demonstration of the `{golem}` Package](https://www.youtube.com/watch?v=3-p9XLvoJV0) is a nice quickstart webinar on using the `{golem}` package.
 * [Bring Your Favorite Fonts to Reports Running in Docker](https://medium.com/@vladimirsalin/bring-your-favourite-fonts-to-reports-running-in-docker-9fc2d24e2b03)
 
+
+The team at Appsilon has a five-part series of posts on
+"Super Solutions for Shiny Architecture" covering:
+
+1. [Using Session Data](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/)
+2. [JavaScript Is Your Friend](https://appsilon.com/super-solutions-for-shiny-architecture-2-javascript-is-your-friend/)
+3. [Softcoding Constants in the App](https://appsilon.com/super-solutions-for-shiny-architecture-3-5-softcoding-constants-in-the-app/)
+4. [Using R6 Classes](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/)
+5. [Automated Tests](https://appsilon.com/super-solutions-for-shiny-architecture-5-automated-tests/)
+
+
 #### Security
 
 Two posts on the [Auth0](https://auth0.com) blog cover addtion authentication to Shiny:
