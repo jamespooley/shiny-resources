@@ -145,6 +145,7 @@ guidance:
 * [Executing an R Script from Airflow](https://community.rstudio.com/t/executing-an-r-script-from-airflow/18421)
 * [Running R Scripts in Airflow?](https://stackoverflow.com/questions/45825146/running-r-scripts-in-airflow)
 * [\[AIRFLOW-2193\] Add ROperator for using R #3115](https://github.com/apache/airflow/pull/3115) is a (closed) pull request about this
+* [Deploying R Models in Production with Apache Airflow and AWS Batch](https://medium.com/bbc-data-science/deploying-r-models-in-production-with-apache-airflow-and-aws-batch-9182b0c8ed83), even though this doesn't mention Shiny
 
 
 #### Security
