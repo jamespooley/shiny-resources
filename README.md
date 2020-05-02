@@ -114,8 +114,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 ### Shiny in Production
 
 > <sup>What is "production"? Software environments that are used and
-relied on by real users, with real consequences if things go wrong.
-([Joe Cheng](https://speakerdeck.com/jcheng5/shiny-in-production?slide=6))</sup>
+relied on by real users, with real consequences if things go wrong. ([Joe Cheng](https://speakerdeck.com/jcheng5/shiny-in-production?slide=6))</sup>
 
 * [Shiny in Production with AWS](https://business-science.github.io/shiny-production-with-aws-book/) is a free book that covers "[t]he enterprise-grade process for deploying, hosting, and maintaining Shiny web applications using AWS, Docker, and git."
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/) is another WIP book by the authors of the [`{golem}`](https://thinkr-open.github.io/golem/) package.
