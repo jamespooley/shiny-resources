@@ -41,6 +41,8 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 
 ### Reactive Programming
 
+[Maintaining State with `reactiveValues()`](https://www.oreilly.com/learning-paths/learning-path-introduction/9781491987209/9781491959558-video245646)
+
 Remember the [4 maxims](https://shiny.rstudio.com/articles/understanding-reactivity.html) of reactive programming in Shiny prepared
 by Garret Grolemund:
 
@@ -60,7 +62,6 @@ I found the following article to be especially clear at comparing
 reactive expressions and observers:
 
 * [`reactive`, `reactiveValue`, and `eventReactive`, `observe` and `observeEvent` in Shiny](https://shiny.programmingpedia.net/en/tutorial/10787/reactive-reactivevalue-and-eventreactive-observe-and-observeevent-in-shiny)
-
 
 [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) sounds relevant, but have not read it ... yet.
 
