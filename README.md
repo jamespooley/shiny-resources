@@ -41,7 +41,9 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 
 ### Reactive Programming
 
-[Maintaining State with `reactiveValues()`](https://www.oreilly.com/learning-paths/learning-path-introduction/9781491987209/9781491959558-video245646)
+* [Maintaining State with `reactiveValues()`](https://www.oreilly.com/learning-paths/learning-path-introduction/9781491987209/9781491959558-video245646)
+* The **`observe()` vs. `observeEvent()`** section of the
+[Common Application Caveats](https://engineering-shiny.org/optim-caveat.html) chapter of [Engineering Production-Grade Shiny Apps]() provides a lucid comparison of these functions
 
 Remember the [4 maxims](https://shiny.rstudio.com/articles/understanding-reactivity.html) of reactive programming in Shiny prepared
 by Garret Grolemund:
@@ -114,8 +116,8 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 ### Shiny in Production
 
-> <sup>What is "production"? Software environments that are used and
-relied on by real users, with real consequences if things go wrong. ([Joe Cheng](https://speakerdeck.com/jcheng5/shiny-in-production?slide=6))</sup>
+>What is "production"? Software environments that are used and
+relied on by real users, with real consequences if things go wrong. ([Joe Cheng](https://speakerdeck.com/jcheng5/shiny-in-production?slide=6))
 
 * [Shiny in Production with AWS](https://business-science.github.io/shiny-production-with-aws-book/) is a free book that covers "[t]he enterprise-grade process for deploying, hosting, and maintaining Shiny web applications using AWS, Docker, and git."
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/) is another WIP book by the authors of the [`{golem}`](https://thinkr-open.github.io/golem/) package.
