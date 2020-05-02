@@ -137,6 +137,13 @@ The team at Appsilon has a five-part series of posts on
 4. [Using R6 Classes](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/)
 5. [Automated Tests](https://appsilon.com/super-solutions-for-shiny-architecture-5-automated-tests/)
 
+In terms of getting R to play nice with Airflow, the following provide some
+guidance:
+
+* [Executing an R Script from Airflow](https://community.rstudio.com/t/executing-an-r-script-from-airflow/18421)
+* [Running R Scripts in Airflow?](https://stackoverflow.com/questions/45825146/running-r-scripts-in-airflow)
+* [\[AIRFLOW-2193\] Add ROperator for using R #3115](https://github.com/apache/airflow/pull/3115) is a (closed) pull request about this
+
 
 #### Security
 
