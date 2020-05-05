@@ -191,6 +191,7 @@ DataCamp's [EC2 Tutorial for Beginners](https://www.datacamp.com/community/tutor
 
 * [How to User Rocker (R + Docker) to Containerize an Application Consist of Both R and Shiny Python Libraries](https://towardsdatascience.com/rocker-r-docker-to-containerize-an-application-consist-of-both-r-shiny-and-python-libraries-821c8c54bcee)
 * [How to Deploy Shiny Server with AWS](https://www.youtube.com/watch?v=0h9VOQZX6QM)
+* [Deploying a Shiny App with Shiny Server on an AWS EC2 Instance](https://abndistro.com/post/2019/07/06/deploying-a-shiny-app-with-shiny-server-on-an-aws-ec2-instance/)
 
 
 <a name="webtech"/>
