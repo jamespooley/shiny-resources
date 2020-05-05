@@ -190,6 +190,7 @@ If you need a quickstart guide to Docker, [R Docker Tutorial](https://ropenscila
 DataCamp's [EC2 Tutorial for Beginners](https://www.datacamp.com/community/tutorials/aws-ec2-beginner-tutorial) is a good quickstart if you need some basic training with that service.
 
 * [How to User Rocker (R + Docker) to Containerize an Application Consist of Both R and Shiny Python Libraries](https://towardsdatascience.com/rocker-r-docker-to-containerize-an-application-consist-of-both-r-shiny-and-python-libraries-821c8c54bcee)
+* [How to Deploy Shiny Server with AWS](https://www.youtube.com/watch?v=0h9VOQZX6QM)
 
 
 <a name="webtech"/>
