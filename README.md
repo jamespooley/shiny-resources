@@ -262,3 +262,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Exploring `yonder` with Nathan Teetor](https://www.youtube.com/watch?v=TWqfik2INEQ)
 * [Managing App Dependencies in Packages](https://irudnyts.github.io//managing-dependencies-in-packages/)
 * [Styling Shiny Apps with Sass and Bootstrap 4](https://rstudio.com/resources/rstudioconf-2020/styling-shiny-apps-with-sass-and-bootstrap-4/)
+* [Fetch API Results from the Browser and Send Them to Shiny](https://colinfay.me/api-from-client-shiny/)
