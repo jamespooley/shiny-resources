@@ -266,4 +266,5 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [`chuck`: A Training Tool for Deploying Shiny Apps](https://colinfay.me/chuck-deployment-shiny-docker-kubernetes/)
 * [Creating Interactive Dashboards in R Shiny Using Python Scripts as the Backend](https://towardsdatascience.com/creating-interactive-dashboards-in-r-shiny-using-python-scripts-as-the-backend-aed40e18fb3f)
 * [Reticulated Shiny](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/)
+* [Tutorial: Using Shiny + Reticulate to Create Apps with R and Python 3](https://github.com/ranikay/shiny-reticulate-app)
 * Keep an eye on [questions tagged `shiny`](https://stackoverflow.com/questions/tagged/shiny) on Stack Overflow
