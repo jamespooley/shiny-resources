@@ -265,3 +265,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Fetch API Results from the Browser and Send Them to Shiny](https://colinfay.me/api-from-client-shiny/)
 * [`chuck`: A Training Tool for Deploying Shiny Apps](https://colinfay.me/chuck-deployment-shiny-docker-kubernetes/)
 * [Creating Interactive Dashboards in R Shiny Using Python Scripts as the Backend](https://towardsdatascience.com/creating-interactive-dashboards-in-r-shiny-using-python-scripts-as-the-backend-aed40e18fb3f)
+* Keep an eye on [questions tagged `shiny`](https://stackoverflow.com/questions/tagged/shiny) on Stack Overflow
