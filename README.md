@@ -268,3 +268,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Reticulated Shiny](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/)
 * [Tutorial: Using Shiny + Reticulate to Create Apps with R and Python 3](https://github.com/ranikay/shiny-reticulate-app)
 * Keep an eye on [questions tagged `shiny`](https://stackoverflow.com/questions/tagged/shiny) on Stack Overflow
+* [Dash with `golem`: First Contact](https://rtask.thinkr.fr/dash-with-golem-the-beginning/)
