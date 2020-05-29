@@ -77,6 +77,7 @@ Mastering Shiny has a lot of good advice. In particular, the part of [Shiny apps
 * A simple change that works for me is [Dean Attali](https://deanattali.com/shiny/)'s tip
 to put `session$onSessionEnded(stopApp)` in your `server` function, which lets you ["[a]utomatically stop a Shiny app when closing the browser tab."](https://github.com/daattali/advanced-shiny/tree/master/auto-kill-app)
 * MarkeD's answer to on the [Best Practices: Shiny Development](https://community.rstudio.com/t/best-practices-shiny-development/1694/3) on the R Studio community discussion board has good suggestions.
+* [A Minimal Reprex for a Shiny App](https://www.youtube.com/watch?v=9w8ANOAlWy4)
 
 ### DataTables
 
