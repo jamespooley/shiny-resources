@@ -266,6 +266,7 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Styling Shiny Apps with Sass and Bootstrap 4](https://rstudio.com/resources/rstudioconf-2020/styling-shiny-apps-with-sass-and-bootstrap-4/)
 * [Fetch API Results from the Browser and Send Them to Shiny](https://colinfay.me/api-from-client-shiny/)
 * [`chuck`: A Training Tool for Deploying Shiny Apps](https://colinfay.me/chuck-deployment-shiny-docker-kubernetes/)
+* [Client-Side Interactivity: Do More with Crosstalk](https://themockup.blog/posts/2020-05-29-client-side-interactivity-do-more-with-crosstalk/)
 * [Creating Interactive Dashboards in R Shiny Using Python Scripts as the Backend](https://towardsdatascience.com/creating-interactive-dashboards-in-r-shiny-using-python-scripts-as-the-backend-aed40e18fb3f)
 * [Reticulated Shiny](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/)
 * [Tutorial: Using Shiny + Reticulate to Create Apps with R and Python 3](https://github.com/ranikay/shiny-reticulate-app)
