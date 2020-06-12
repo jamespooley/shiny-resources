@@ -43,7 +43,7 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 
 * [Maintaining State with `reactiveValues()`](https://www.oreilly.com/learning-paths/learning-path-introduction/9781491987209/9781491959558-video245646)
 * The **`observe()` vs. `observeEvent()`** section of the
-[Common Application Caveats](https://engineering-shiny.org/optim-caveat.html) chapter of [Engineering Production-Grade Shiny Apps]() provides a lucid comparison of these functions
+[Common Application Caveats](https://engineering-shiny.org/optim-caveat.html) chapter of [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) provides a lucid comparison of these functions
 
 Remember the [4 maxims](https://shiny.rstudio.com/articles/understanding-reactivity.html) of reactive programming in Shiny prepared
 by Garret Grolemund:
