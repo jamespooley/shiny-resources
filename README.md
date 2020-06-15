@@ -131,6 +131,7 @@ relied on by real users, with real consequences if things go wrong. ([Joe Cheng]
 * [Bring Your Favorite Fonts to Reports Running in Docker](https://medium.com/@vladimirsalin/bring-your-favourite-fonts-to-reports-running-in-docker-9fc2d24e2b03)
 * [R Shiny in Production](https://medium.com/inlocotech/r-shiny-in-production-e2fb6a577fe0)
 * [Shiny Server Administrator's Guide](https://support.rstudio.com/hc/en-us/articles/214771447-Shiny-Server-Administrator-s-Guide)
+* [What Does "Disconnected from Server" Mean in shinyapps.io?](https://support.rstudio.com/hc/en-us/articles/220339568-What-does-Disconnected-from-Server-mean-in-shinyapps-io-)
 
 
 The team at Appsilon has a five-part series of posts on
