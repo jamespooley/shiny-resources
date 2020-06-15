@@ -10,14 +10,14 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 
 ### Table of Contents
 
-* [Foundations](#foundations)  
-* [Advanced](#advanced)  
-* [Reactive Programming](#reactive)  
-* [Development Workflow](#workflow)  
+* [Foundations](#foundations)
+* [Advanced](#advanced)
+* [Reactive Programming](#reactive)
+* [Development Workflow](#workflow)
 * [Data Visualization](#dataviz)
-* [Shiny in Production](#production)  
-* [Docker and AWS](#docker)  
-* [HTML, CSS, and JavaScript](#webtech)  
+* [Shiny in Production](#production)
+* [Docker and AWS](#docker)
+* [HTML, CSS, and JavaScript](#webtech)
 
 
 <a name="foundations"/>
@@ -130,6 +130,7 @@ relied on by real users, with real consequences if things go wrong. ([Joe Cheng]
 * [Demonstration of the `{golem}` Package](https://www.youtube.com/watch?v=3-p9XLvoJV0) is a nice quickstart webinar on using the `{golem}` package.
 * [Bring Your Favorite Fonts to Reports Running in Docker](https://medium.com/@vladimirsalin/bring-your-favourite-fonts-to-reports-running-in-docker-9fc2d24e2b03)
 * [R Shiny in Production](https://medium.com/inlocotech/r-shiny-in-production-e2fb6a577fe0)
+* [Debugging Shiny Applications](https://shiny.rstudio.com/articles/debugging.html)
 * [Shiny Server Administrator's Guide](https://support.rstudio.com/hc/en-us/articles/214771447-Shiny-Server-Administrator-s-Guide)
 * [What Does "Disconnected from Server" Mean in shinyapps.io?](https://support.rstudio.com/hc/en-us/articles/220339568-What-does-Disconnected-from-Server-mean-in-shinyapps-io-)
 
