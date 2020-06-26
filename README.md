@@ -251,7 +251,7 @@ great source of ideas and inspiration when designing an app.
 
 ## General R Programming
 
-Being fluent in R as a programming language (as opposed to a tool and interactive
+Being fluent in R _as a programming language_ (as opposed to a tool and interactive
 environment for data analysis) goes a long way when building Shiny apps.
 
 The [Functional Programming](https://adv-r.hadley.nz/fp.html) chapters in Hadley Wickham's
