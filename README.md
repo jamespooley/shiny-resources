@@ -134,6 +134,16 @@ relied on by real users, with real consequences if things go wrong. ([Joe Cheng]
 * [Shiny Server Administrator's Guide](https://support.rstudio.com/hc/en-us/articles/214771447-Shiny-Server-Administrator-s-Guide)
 * [What Does "Disconnected from Server" Mean in shinyapps.io?](https://support.rstudio.com/hc/en-us/articles/220339568-What-does-Disconnected-from-Server-mean-in-shinyapps-io-)
 
+#### Shiny Proxy
+
+> ShinyProxy is your favourite way to deploy Shiny apps in an
+> enterprise context. It has built-in functionality for LDAP
+> authentication and authorization, makes securing Shiny traffic
+> (over TLS) a breeze and has no limits on concurrent usage of a
+> Shiny app. 
+
+* [Shiny in Production with ShinyProxy, Docker, and Debian](https://rtask.thinkr.fr/shiny-application-in-production-with-shinyproxy-docker-and-debian/)
+* [ShinyProxy](https://www.shinyproxy.io/) official docs
 
 The team at Appsilon has a five-part series of posts on
 "Super Solutions for Shiny Architecture" covering:
