@@ -133,6 +133,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Bring Your Favorite Fonts to Reports Running in Docker](https://medium.com/@vladimirsalin/bring-your-favourite-fonts-to-reports-running-in-docker-9fc2d24e2b03)
 * [What's a "Successful" Shiny Application?](https://rtask.thinkr.fr/whats-a-successful-shiny-application/)
 * [R Shiny in Production](https://medium.com/inlocotech/r-shiny-in-production-e2fb6a577fe0)
+* [Our Template to Design a Prod-Ready Shiny Application](https://rtask.thinkr.fr/our-shiny-template-to-design-a-prod-ready-app/)
 * [Debugging Shiny Applications](https://shiny.rstudio.com/articles/debugging.html)
 * [Shiny Server Administrator's Guide](https://support.rstudio.com/hc/en-us/articles/214771447-Shiny-Server-Administrator-s-Guide)
 * [What Does "Disconnected from Server" Mean in shinyapps.io?](https://support.rstudio.com/hc/en-us/articles/220339568-What-does-Disconnected-from-Server-mean-in-shinyapps-io-)
@@ -147,6 +148,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 * [Shiny in Production with ShinyProxy, Docker, and Debian](https://rtask.thinkr.fr/shiny-application-in-production-with-shinyproxy-docker-and-debian/)
 * [ShinyProxy](https://www.shinyproxy.io/) official docs
+* [A Tale of Two Shiny Apps: Google Auth and ShinyProxy](https://rtask.thinkr.fr/a-tale-of-two-shiny-apps-google-auth-shinyproxy/)
 
 The team at Appsilon has a five-part series of posts on
 "Super Solutions for Shiny Architecture" covering:
