@@ -149,6 +149,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Shiny in Production with ShinyProxy, Docker, and Debian](https://rtask.thinkr.fr/shiny-application-in-production-with-shinyproxy-docker-and-debian/)
 * [ShinyProxy](https://www.shinyproxy.io/) official docs
 * [A Tale of Two Shiny Apps: Google Auth and ShinyProxy](https://rtask.thinkr.fr/a-tale-of-two-shiny-apps-google-auth-shinyproxy/)
+* [How to Use Shiny Containers with ShinyProxy](https://lukesingham.com/shiny-containers-with-shinyproxy/)
 
 The team at Appsilon has a five-part series of posts on
 "Super Solutions for Shiny Architecture" covering:
