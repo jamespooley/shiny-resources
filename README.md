@@ -1,7 +1,7 @@
 # ✨ Shiny Resources
 
 Shiny is a great tool for the working data scientist that needs to quickly build an MVP data
-product, but also wants to build a long-lasting "productized" application.
+product, but also wants to build a long-lasting "productionized" application.
 
 The following is a (perpetually WIP) compendium of books, help documents, blog posts, etc. that I've found
 helpful when building Shiny apps.
