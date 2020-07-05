@@ -294,3 +294,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Dash with `golem`: First Contact](https://rtask.thinkr.fr/dash-with-golem-the-beginning/)
 * [`reactable`: An Interactive Tables Guide](https://themockup.blog/posts/2020-05-13-reactable-tables-the-rest-of-the-owl/)
 * [Running Shiny Server with a Proxy](https://support.rstudio.com/hc/en-us/articles/213733868-Running-Shiny-Server-with-a-Proxy)
+* [`tsibbletalk`](https://github.com/earowang/tsibbletalk)
