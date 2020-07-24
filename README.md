@@ -294,5 +294,6 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * Keep an eye on [questions tagged `shiny`](https://stackoverflow.com/questions/tagged/shiny) on Stack Overflow
 * [Dash with `golem`: First Contact](https://rtask.thinkr.fr/dash-with-golem-the-beginning/)
 * [`reactable`: An Interactive Tables Guide](https://themockup.blog/posts/2020-05-13-reactable-tables-the-rest-of-the-owl/)
+* [`reactable` Tutorial](https://vchoudhury.shinyapps.io/reactable_tutorial/)
 * [Running Shiny Server with a Proxy](https://support.rstudio.com/hc/en-us/articles/213733868-Running-Shiny-Server-with-a-Proxy)
 * [`tsibbletalk`](https://github.com/earowang/tsibbletalk)
