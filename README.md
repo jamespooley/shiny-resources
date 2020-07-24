@@ -196,6 +196,7 @@ as one would expect, how to add password protection to your apps.
 * [Using `shinytest` with Continuous Integration](https://rstudio.github.io/shinytest/articles/ci.html)
 * [Testing Shiny Apps](https://cran.r-project.org/web/packages/RSelenium/vignettes/shinytesting.html) goes into "how one might approach 'testing' a Shiny app" using [RSelenium](https://github.com/ropensci/RSelenium).
 * [Developing Robust Shiny Apps with Regression Testing](https://resources.rstudio.com/rstudio-conf-2018/shiny-developing-robust-shiny-apps-with-regression-testing-winston-chang)
+* [Load Testing Shiny Applications](https://rstudio.github.io/shinyloadtest/)
 
 
 <a name="docker"/>
