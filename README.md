@@ -198,6 +198,7 @@ as one would expect, how to add password protection to your apps.
 * [Developing Robust Shiny Apps with Regression Testing](https://resources.rstudio.com/rstudio-conf-2018/shiny-developing-robust-shiny-apps-with-regression-testing-winston-chang)
 * [Load Testing Shiny Applications](https://rstudio.github.io/shinyloadtest/)
 * [Puppeteer Shiny Test](https://gist.github.com/diplodata/8d02c40d5038948371a28b3ef513ca30)
+* [`crrry`](https://github.com/ColinFay/crrry)
 
 
 <a name="docker"/>
