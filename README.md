@@ -299,3 +299,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [`reactable` Tutorial](https://vchoudhury.shinyapps.io/reactable_tutorial/)
 * [Running Shiny Server with a Proxy](https://support.rstudio.com/hc/en-us/articles/213733868-Running-Shiny-Server-with-a-Proxy)
 * [`tsibbletalk`](https://github.com/earowang/tsibbletalk)
+* [`dockerstats`](https://github.com/ColinFay/dockerstats)
