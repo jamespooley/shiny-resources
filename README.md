@@ -90,6 +90,11 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * Hadley's chapters on [Measuring Performance](https://adv-r.hadley.nz/perf-measure.html) and [Improving Performance](https://adv-r.hadley.nz/perf-improve.html) of R code in Advanced R will be helpful here.
 * [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
+### Performance
+
+* [4 Tips to Make Your Shiny Dashboard Faster](https://blog.rstudio.com/2020/07/21/4-tips-to-make-your-shiny-dashboard-faster/)
+
+
 ### Shiny Modules
 
 * [The Shiny Module Design Pattern](https://drdoane.com/the-shiny-module-design-pattern/)
