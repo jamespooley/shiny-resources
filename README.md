@@ -102,6 +102,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Effective Use of Shiny Modules in Application Development](https://resources.rstudio.com/rstudio-conf-2019/effective-use-of-shiny-modules-in-application-development)
 * [Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/)
 * [Communication between Modules and Its Whims](https://rtask.thinkr.fr/communication-between-modules-and-its-whims/)
+* [How to Safely Remove a Dynamic Shiny Module](https://appsilon.com/how-to-safely-remove-a-dynamic-shiny-module/)
 
 ### Asynchronous Programming
 
@@ -155,6 +156,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [ShinyProxy](https://www.shinyproxy.io/) official docs
 * [A Tale of Two Shiny Apps: Google Auth and ShinyProxy](https://rtask.thinkr.fr/a-tale-of-two-shiny-apps-google-auth-shinyproxy/)
 * [How to Use Shiny Containers with ShinyProxy](https://lukesingham.com/shiny-containers-with-shinyproxy/)
+* [Approximating RStudio Server Pro (and Shiny Server Pro, and JupyterHub) for Free](https://www.rkingdc.com/blog/2019/3/27/approximating-rstudio-server-pro-and-shiny-server-pro-and-jupyterhub-for-free)
 
 The team at Appsilon has a five-part series of posts on
 "Super Solutions for Shiny Architecture" covering:
