@@ -97,6 +97,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 ### Shiny Modules
 
+* [A Beginner's Guide to Shiny Modules](https://emilyriederer.netlify.app/post/shiny-modules/)
 * [The Shiny Module Design Pattern](https://drdoane.com/the-shiny-module-design-pattern/)
 * [Writing Big Apps: How to Use Shiny Modules](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-modules-garrettgrolemund-1080p)
 * [Effective Use of Shiny Modules in Application Development](https://resources.rstudio.com/rstudio-conf-2019/effective-use-of-shiny-modules-in-application-development)
