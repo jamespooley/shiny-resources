@@ -179,6 +179,8 @@ guidance:
 
 #### Security
 
+[Securing Shiny Apps](https://globalparametrics.github.io/SecuringShiny/) provides "[a] summary of free/open source ways of securing Shiny."
+
 Two posts on the [Auth0](https://auth0.com) blog cover addtion authentication to Shiny:
 
 * [Adding Authentication to Shiny Open Source Edition](https://auth0.com/blog/adding-authentication-to-shiny-open-source-edition/)
@@ -196,11 +198,6 @@ as one would expect, how to add password protection to your apps.
 ### UI/UX
 
 * [Alternative Design for Shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
-
-
-### Security
-
-* [Securing Shiny Apps](https://globalparametrics.github.io/SecuringShiny/) provides "[a] summary of free/open source ways of securing Shiny."
 
 
 ### Testing
