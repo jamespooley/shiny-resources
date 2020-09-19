@@ -16,6 +16,7 @@ As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio
 * [Development Workflow](#workflow)
 * [Data Visualization](#dataviz)
 * [Shiny in Production](#production)
+* [UI/UX](#ui-ux)
 * [Docker and AWS](#docker)
 * [HTML, CSS, and JavaScript](#webtech)
 
@@ -190,6 +191,11 @@ In terms of password-protection for Shiny apps:
 stored in a SQLite database
 * [Password Protect Shiny Apps](https://www.r-bloggers.com/password-protect-shiny-apps/) covers,
 as one would expect, how to add password protection to your apps.
+
+
+### UI/UX
+
+* [Alternative Design for Shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
 
 
 ### Security
