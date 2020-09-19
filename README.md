@@ -197,6 +197,7 @@ as one would expect, how to add password protection to your apps.
 
 ### UI/UX
 
+* [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/)
 * [Alternative Design for Shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
 
 
