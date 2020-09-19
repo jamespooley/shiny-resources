@@ -6,7 +6,8 @@ product, but also wants to build a long-lasting "productionized" application.
 The following is a (perpetually WIP) compendium of books, help documents, blog posts, etc. that I've found
 helpful when building Shiny apps.
 
-As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html).
+As always, R Studio has a very helpful Shiny [cheat sheet](https://shiny.rstudio.com/articles/cheatsheet.html),
+and you should follow the [`shiny`](https://stackoverflow.com/questions/tagged/shiny) tag on Stack Overflow.
 
 ### Table of Contents
 
