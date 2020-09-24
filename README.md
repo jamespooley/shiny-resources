@@ -146,6 +146,10 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [What Does "Disconnected from Server" Mean in shinyapps.io?](https://support.rstudio.com/hc/en-us/articles/220339568-What-does-Disconnected-from-Server-mean-in-shinyapps-io-)
 * [Deploying End-to-End Data Science with Shiny, Plumber, and Pins](https://rstudio.com/resources/rstudioconf-2020/deploying-end-to-end-data-science-with-shiny-plumber-and-pins/)
 
+#### Performance
+
+* [`shiny.worker`: Speed Up R Shiny Apps by Offloading Heavy Calculations](https://appsilon.com/shiny-worker-package/)
+
 #### Shiny Proxy
 
 > ShinyProxy is your favourite way to deploy Shiny apps in an
