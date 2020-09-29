@@ -83,6 +83,14 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 
 * [DT: An R Interface to the DataTables Library](https://rstudio.github.io/DT/)
 
+#### Editing
+
+* [R Shiny DT: Edit Values in Table with Reactive](https://stackoverflow.com/questions/50470097/r-shiny-dt-edit-values-in-table-with-reactive)
+* [Editable DataTables for Shiny Applications](https://bryer.org/post/2018-22-26-dtedit/) discusses the [`DTedit`](https://github.com/jbryer/DTedit) package
+* [How to Download Editable DataTable in Shiny](https://stackoverflow.com/questions/56535488/how-to-download-editable-data-table-in-shiny)
+* See section **2.4 Edit Tables** in RStudio's [Using DT in Shiny](https://rstudio.github.io/DT/shiny.html) documentation.
+* [Modify a Column of a Reactive DataTable in Shiny](https://stackoverflow.com/questions/59098445/modify-a-column-of-a-reactive-data-table-in-shiny)
+
 ### Profiling
 
 * [Profiling a Shiny App](https://rstudio.github.io/profvis/examples.html#example-3---profiling-a-shiny-application) using [`profvis`](https://rstudio.github.io/profvis/index.html)
