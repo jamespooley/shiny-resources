@@ -304,6 +304,7 @@ R programming that will help you write app code that follows the [DRY](https://e
 These are good but I haven't decided where to put these yet. Thus, the [terrible section name](https://www.merriam-webster.com/dictionary/dog%27s%20breakfast)...
 
 * [The Subtleties of Shiny Reactive Programming: `lapply` and `for` Loops](https://chasemc.github.io/post/the-subtleties-of-shiny-reactive-programming-lapply-and-for-loops/)
+* [Shiny Tips: The First Set](https://yjunechoe.github.io/posts/2020-07-20-shiny-tips-1/)
 * [`reactlog`](https://rstudio.github.io/reactlog/)
 * [3 Wild-Caught R and Python Applications](https://blog.rstudio.com/2020/07/28/practical-interoperability/)
 * [Persistent Data Storage in Shiny Apps](https://shiny.rstudio.com/articles/persistent-data-storage.html)
