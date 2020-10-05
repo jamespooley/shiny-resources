@@ -334,3 +334,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [`tsibbletalk`](https://github.com/earowang/tsibbletalk)
 * [`dockerstats`](https://github.com/ColinFay/dockerstats)
 * [Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/)
+* [3 Fun Apps for Your Long Labor Day Weekend](https://blog.rstudio.com/2020/09/04/3-fun-shiny-apps-for-your-long-labor-day-weekend/)
