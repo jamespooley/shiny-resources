@@ -140,6 +140,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) is a free book that covers "[t]he enterprise-grade process for deploying, hosting, and maintaining Shiny web applications using AWS, Docker, and git."
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/) is another WIP book by the authors of the [`{golem}`](https://thinkr-open.github.io/golem/) package.
 * [Supplement to Shiny in Production](https://kellobri.github.io/shiny-prod-book/)
+* [Scaling Shiny Apps with Asynchronous Programming](https://rstudio.com/resources/webinars/scaling-shiny-apps-with-asynchronous-programming/)
 * [Production-Grade R Shiny with Golem: Prototyping](https://towardsdatascience.com/production-grade-r-shiny-with-golem-prototyping-51b03f37c2a9)
 * Joe Cheng's [Shiny in Production: Principles, Practices, and Tools](https://resources.rstudio.com/rstudio-conf-2019/shiny-in-production-principles-practices-and-tools-joe-cheng) presentation at rstudio::conf 2019
 * [Packaging Shiny Applications: A Deep Dive](https://www.mango-solutions.com/packaging-shiny-applications-a-deep-dive/)
