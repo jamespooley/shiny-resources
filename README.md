@@ -82,6 +82,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 ### DataTables
 
 * [DT: An R Interface to the DataTables Library](https://rstudio.github.io/DT/)
+* [Shiny, DataTables, and `replaceData`](https://modernresearchconsulting.com/2019/07/01/shiny-datatables-and-replacedata/)
 
 #### Editing
 
