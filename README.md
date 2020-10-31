@@ -217,6 +217,7 @@ as one would expect, how to add password protection to your apps.
 
 * [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/)
 * [Why Is My Dashboard Ugly? A Crash Course in R Shiny UI](https://appsilon.com/shiny-dashboard-ui-crash-course/)
+* [`shiny.semantic` 0.4.0 Update Brings CSS Grid UI Functionality to Shiny Apps](https://appsilon.com/shiny-semantic-0-4-0-update/)
 * [Alternative Design for Shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
 * [The Importance of User Experience (with John Coene)](https://shinydevseries.com/post/episode-10-coene/), episode 10 of the Shiny Developer Series
 * [`shinyjqui`](https://github.com/Yang-Tang/shinyjqui)
