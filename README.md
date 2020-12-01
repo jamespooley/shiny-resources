@@ -128,6 +128,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Interactive Web-Based Data Visualization with R, Plotly, and Shiny](https://plotly-r.com/)
 * [R Graphics Cookbook (2nd Edition)](https://r-graphics.org/)
 * The [{ggiraph}](https://davidgohel.github.io/ggiraph/) package "makes ggplot graphics interactive, and you can check out its [Shiny usage](https://davidgohel.github.io/ggiraph/articles/offcran/shiny.html).
+* [Interactive Visualizations](https://tladeras.shinyapps.io/interactive_visualizations/_w_6d65e56c/)
 
 
 <a name="production"/>
