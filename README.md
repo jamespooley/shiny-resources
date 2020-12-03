@@ -313,6 +313,7 @@ R programming that will help you write app code that follows the [DRY](https://e
 These are good but I haven't decided where to put these yet. Thus, the [terrible section name](https://www.merriam-webster.com/dictionary/dog%27s%20breakfast)...
 
 * [Shiny Issues, Features, and Best Practices](https://community.rstudio.com/c/shiny/8) from the RStudio Community
+* [How California Uses Shiny in Production to Fight COVID-19](https://blog.rstudio.com/2020/11/19/using-shiny-in-production-to-monitor-covid-19/)
 * [`tsibbletalk`: Interactive Graphics for Tsibble Objects](https://cran.r-project.org/web/packages/tsibbletalk/index.html)
 * [The Subtleties of Shiny Reactive Programming: `lapply` and `for` Loops](https://chasemc.github.io/post/the-subtleties-of-shiny-reactive-programming-lapply-and-for-loops/)
 * [Shiny Tips: The First Set](https://yjunechoe.github.io/posts/2020-07-20-shiny-tips-1/)
