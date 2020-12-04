@@ -141,6 +141,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 >  --- [Joe Cheng](https://speakerdeck.com/jcheng5/shiny-in-production?slide=6)
 
 * [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) is a free book that covers "[t]he enterprise-grade process for deploying, hosting, and maintaining Shiny web applications using AWS, Docker, and git."
+* [Alternative Approaches to Scaling Shiny with RStudio Connect, ShinyProxy, or Custom Architecture](https://appsilon.com/alternatives-to-scaling-shiny/)
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/) is another WIP book by the authors of the [`{golem}`](https://thinkr-open.github.io/golem/) package.
 * [Supplement to Shiny in Production](https://kellobri.github.io/shiny-prod-book/)
 * [Scaling Shiny Apps with Asynchronous Programming](https://rstudio.com/resources/webinars/scaling-shiny-apps-with-asynchronous-programming/)
