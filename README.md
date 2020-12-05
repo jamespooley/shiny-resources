@@ -351,3 +351,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Build Shiny Dashboard with Elasticsearch](https://towardsdatascience.com/build-shiny-dashboard-with-elasticsearch-1723a448016f)
 * [Building an A/B Testing Analytics System with R and Shiny](https://rstudio.com/resources/rstudioconf-2019/building-an-a-b-testing-analytics-system-with-r-and-shiny/)
 * [Rapid Multi-Language Support for Shiny Apps](https://appsilon.com/rapid-internationalization-of-shiny-apps-shiny-i18n-version-0-2/)
+* [Basic Multipage Routing Tutorial for Shiny Apps: `shiny.router`](https://appsilon.com/shiny-router-020/)
