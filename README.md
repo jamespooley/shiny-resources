@@ -261,6 +261,8 @@ DataCamp's [EC2 Tutorial for Beginners](https://www.datacamp.com/community/tutor
 
 Some familiarty with web development languages will come in handy, especially when utilizing [Advanced UI](https://mastering-shiny.org/advanced-ui.html) features and [`shinyjs`](https://github.com/daattali/shinyjs).
 
+[JavaScript for R](https://book.javascript-for-r.com/)
+
 Colin Fey of `{golem}` fame's [JavaScript 4 Shiny: Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/) is a good place to start.
 
 Mozilla's [MDN web docs](https://developer.mozilla.org/en-US/) has excellent documentation on these technologies written "by developers, for developers."
