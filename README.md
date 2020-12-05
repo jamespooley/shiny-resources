@@ -161,6 +161,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [What Does "Disconnected from Server" Mean in shinyapps.io?](https://support.rstudio.com/hc/en-us/articles/220339568-What-does-Disconnected-from-Server-mean-in-shinyapps-io-)
 * [Deploying End-to-End Data Science with Shiny, Plumber, and Pins](https://rstudio.com/resources/rstudioconf-2020/deploying-end-to-end-data-science-with-shiny-plumber-and-pins/)
 * [Scaling R Shiny: How We Built a Shiny App for 700 Users](https://appsilon.com/how-we-built-a-shiny-app-for-700-users/)
+* [How to Scale Shiny Dashboards](https://appsilon.com/how-to-scale-a-shiny-dashboard/)
 
 #### Performance
 
