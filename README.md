@@ -226,6 +226,9 @@ as one would expect, how to add password protection to your apps.
 * [The Importance of User Experience (with John Coene)](https://shinydevseries.com/post/episode-10-coene/), episode 10 of the Shiny Developer Series
 * [`shinyjqui`](https://github.com/Yang-Tang/shinyjqui)
 * [`shinyWidgets`](https://dreamrs.github.io/shinyWidgets/index.html)
+* [`bslib`](https://github.com/rstudio/bslib) "provides tools for creating custom Bootstrap themes,
+making it easier to style Shiny apps & R Markdown documents directly from R without writing unruly
+CSS and HTML."
 
 
 ### Testing
