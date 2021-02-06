@@ -162,6 +162,8 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Deploying End-to-End Data Science with Shiny, Plumber, and Pins](https://rstudio.com/resources/rstudioconf-2020/deploying-end-to-end-data-science-with-shiny-plumber-and-pins/)
 * [Scaling R Shiny: How We Built a Shiny App for 700 Users](https://appsilon.com/how-we-built-a-shiny-app-for-700-users/)
 * [How to Scale Shiny Dashboards](https://appsilon.com/how-to-scale-a-shiny-dashboard/)
+* [Using `drake` for ETL: Building a Shiny Real Estate App](https://www.business-science.io/business/2020/09/24/using-drake-etl.html)
+
 
 #### Performance
 
