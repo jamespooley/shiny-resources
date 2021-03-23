@@ -362,3 +362,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Rapid Multi-Language Support for Shiny Apps](https://appsilon.com/rapid-internationalization-of-shiny-apps-shiny-i18n-version-0-2/)
 * [Basic Multipage Routing Tutorial for Shiny Apps: `shiny.router`](https://appsilon.com/shiny-router-020/)
 * [Running Compiled Stan Models in Shiny](https://www.jchau.org/2021/02/01/running-stan-models-in-shiny/)
+* [Climbing the Ladder of Shiny Mastery with Hadley Wickham](https://www.youtube.com/watch?v=PJsIO8C9xp0)
