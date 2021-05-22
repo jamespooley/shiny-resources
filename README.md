@@ -231,6 +231,7 @@ as one would expect, how to add password protection to your apps.
 * [`bslib`](https://github.com/rstudio/bslib) "provides tools for creating custom Bootstrap themes,
 making it easier to style Shiny apps & R Markdown documents directly from R without writing unruly
 CSS and HTML."
+* [Custom and Dynamic Styles using `bslib`](https://shiny.rstudio.com/app-stories/weather-lookup-bslib.html)
 
 
 ### Testing
