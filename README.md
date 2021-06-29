@@ -103,6 +103,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [4 Tips to Make Your Shiny Dashboard Faster](https://blog.rstudio.com/2020/07/21/4-tips-to-make-your-shiny-dashboard-faster/)
 * [Speeding Up a Shiny App: Future/Promise and Caching](https://modernresearchconsulting.com/2018/12/26/speeding-up-a-shiny-app-future-promise-and-caching/)
 * [Using `bindCache()` to Speed Up and App](https://shiny.rstudio.com/app-stories/weather-lookup-caching.html)
+* [Make Shiny Fast by Doing as Little Work as Possible](https://www.rstudio.com/resources/rstudioconf-2018/make-shiny-fast-by-doing-as-little-work-as-possible/)
 
 
 ### Shiny Modules
