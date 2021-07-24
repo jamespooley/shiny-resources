@@ -115,6 +115,7 @@ to put `session$onSessionEnded(stopApp)` in your `server` function, which lets y
 * [Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/)
 * [Communication between Modules and Its Whims](https://rtask.thinkr.fr/communication-between-modules-and-its-whims/)
 * [How to Safely Remove a Dynamic Shiny Module](https://appsilon.com/how-to-safely-remove-a-dynamic-shiny-module/)
+* [Shiny: Add/Removing Modules Dynamically](https://roh.engineering/posts/2020/02/shiny-add/removing-modules-dynamically/)
 
 ### Asynchronous Programming
 
