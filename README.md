@@ -370,3 +370,4 @@ These are good but I haven't decided where to put these yet. Thus, the [terrible
 * [Running Compiled Stan Models in Shiny](https://www.jchau.org/2021/02/01/running-stan-models-in-shiny/)
 * [Climbing the Ladder of Shiny Mastery with Hadley Wickham](https://www.youtube.com/watch?v=PJsIO8C9xp0)
 * [Mastering Shiny with Appsilon X-Session Recordings](https://blog.rstudio.com/2021/03/15/mastering-shiny-with-appsilon-x-session-recordings-are-now-available/)
+* [Database Basics: `dbplyr` and `DBI`](https://shiny.rstudio.com/articles/overview.html)
