@@ -247,6 +247,7 @@ CSS and HTML."
 * [Load Testing Shiny Applications](https://rstudio.github.io/shinyloadtest/)
 * [Puppeteer Shiny Test](https://gist.github.com/diplodata/8d02c40d5038948371a28b3ef513ca30)
 * [`crrry`](https://github.com/ColinFay/crrry)
+* [How to Conduct Effective User Tests for Shiny Dashboards](https://www.youtube.com/watch?v=yPoxP5y_BS0)
 
 
 <a name="docker"/>
