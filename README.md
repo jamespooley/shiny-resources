@@ -326,6 +326,7 @@ R programming that will help you write app code that follows the [DRY](https://e
 
 These are good but I haven't decided where to put these yet. Thus, the [terrible section name](https://www.merriam-webster.com/dictionary/dog%27s%20breakfast)...
 
+* [Making Shiny Apps Mobile Friendly](https://jnolis.com/blog/shiny_mobile/)
 * [Shiny Issues, Features, and Best Practices](https://community.rstudio.com/c/shiny/8) from the RStudio Community
 * [How California Uses Shiny in Production to Fight COVID-19](https://blog.rstudio.com/2020/11/19/using-shiny-in-production-to-monitor-covid-19/)
 * [`tsibbletalk`: Interactive Graphics for Tsibble Objects](https://cran.r-project.org/web/packages/tsibbletalk/index.html)
